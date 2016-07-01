@@ -1,12 +1,6 @@
 'use strict'
-
-import React, {
-  Animated,
-  Component,
-  Dimensions,
-  PanResponder,
-  View,
-} from 'react-native'
+import React, { Component } from "react";
+import { Animated,  Dimensions, PanResponder, View } from 'react-native'
 
 import Dots from './dots'
 
